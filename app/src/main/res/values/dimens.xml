@@ -1,0 +1,28 @@
+<resources>
+    <!-- Valor padrão para margens -->
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+
+    <!-- Largura/Altura da img do Produto
+    <dimen name="img_produto_adapter_width">250dp</dimen>
+    <dimen name="img_produto_adapter_height">107dp</dimen>-->
+
+    <!-- Foto do evento - fragment_evento.xml -->
+    <dimen name="foto_produto_width">360dp</dimen>
+    <dimen name="foto_produto_height">210dp</dimen>
+
+    <dimen name="img_produto_adapter_width">260dp</dimen>
+    <dimen name="img_produto_adapter_height">127dp</dimen>
+
+    <!-- Largura/Altura da img do anunciante - adapter_anunciante.xml -->
+    <dimen name="img_anunciante_adapter_width">300dp</dimen>
+    <dimen name="img_anunciante_adapter_height">147dp</dimen>
+
+    <!-- Foto do anunciante - fragment_visualizar_anunciante.xmlnciante.xml -->
+    <dimen name="foto_anunciante_width">360dp</dimen>
+    <dimen name="foto_anunciante_height">210dp</dimen>
+
+    <!-- FAB -->
+    <dimen name="fab_margin">16dp</dimen>
+
+</resources>

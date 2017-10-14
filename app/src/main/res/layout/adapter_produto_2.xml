@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:paddingTop="10dp"
+    android:paddingLeft="10dp"
+    android:background="?attr/selectableItemBackground">
+
+        <FrameLayout
+            android:id="@+id/frameImg"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content">
+
+                <ImageView
+                    android:id="@+id/foto_do_produto_2"
+                    android:layout_width="60dp"
+                    android:layout_height="60dp"
+                    android:src="@null"
+                    android:layout_alignParentLeft="true"
+                    android:layout_marginRight="6dp" />
+
+                <ProgressBar
+                        android:id="@+id/progressImg"
+                        style="@android:style/Widget.ProgressBar.Small"
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center|center_vertical"
+                        android:layout_marginRight="6dp"
+                        android:gravity="center|center_vertical"
+                        android:visibility="invisible" />
+
+        </FrameLayout>
+
+        <LinearLayout
+            android:id="@+id/llProduto"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_toRightOf="@+id/frameImg">
+
+                <TextView
+                    android:id="@+id/nome_do_produto_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:textSize="18sp" />
+
+                <TextView
+                    android:id="@+id/estabelecimento"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="10dp"
+                    android:layout_marginBottom="3dp"
+                    android:textSize="12sp" />
+
+                <TextView
+                    android:id="@+id/preco_do_produto_2"
+                    android:layout_width="wrap_content"
+                    android:layout_height="wrap_content"
+                    android:paddingRight="10dp"
+                    android:textSize="20sp"
+                    android:textColor="@color/red" />
+
+        </LinearLayout>
+
+        <View
+            android:id="@+id/vw_divider"
+            android:layout_marginTop="10dp"
+            android:layout_marginRight="6dp"
+            android:layout_below="@+id/llProduto"
+            android:background="@color/gray"
+            android:layout_width="match_parent"
+            android:layout_height="0.8dp" />
+
+</RelativeLayout>

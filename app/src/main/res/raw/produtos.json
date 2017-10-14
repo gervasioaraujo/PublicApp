@@ -1,0 +1,72 @@
+[
+  {
+    "nome": "Arroz 1kg",
+    "preco": 4.6,
+    "categoria": "Outros",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVbDhybzVsMXRORlk",
+    "estabelecimentoComercial": "Comercial Don do Coco"
+  },
+  {
+    "nome": "Arroz 5kg",
+    "preco": 13.6,
+    "categoria": "Outros",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVdEgxbS1vLWd2UGM",
+    "estabelecimentoComercial": "Supermercado São José o Baratão"
+  },
+  {
+    "nome": "Feijão 1kg",
+    "preco": 5.6,
+    "categoria": "Outros",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVU3VmeHZfc0YxQUU",
+    "estabelecimentoComercial": "Comercial Compre Bem"
+  },
+  {
+    "nome": "Sardinha",
+    "preco": 3.6,
+    "categoria": "Enlatados",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVSEx6NkR4bjV3eDA",
+    "estabelecimentoComercial": "Comercial Kibom"
+  },
+  {
+    "nome": "Macarrão 1 kg",
+    "preco": 2.6,
+    "categoria": "Outros",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVcGJBT1NBMHJzOTQ",
+    "estabelecimentoComercial": "Supermercado Marília Variedades"
+  },
+  {
+    "nome": "Carne 1kg",
+    "preco": 8.6,
+    "categoria": "Carnes",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVYWg2UnphdEtMZVU",
+    "estabelecimentoComercial": "Supermercado Silveira"
+  },
+  {
+    "nome": "Cerveja Skol",
+    "preco": 5.0,
+    "categoria": "Bebidas",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVQkdQd1RWM0psWkE",
+    "estabelecimentoComercial": "Distribuidora de Bebidas Ernaldo Farias"
+  },
+  {
+    "nome": "Maçã 1kg",
+    "preco": 3.4,
+    "categoria": "Frutas",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVLWxHQWJ2VjNOOUk",
+    "estabelecimentoComercial": "Frutaria AJ"
+  },
+  {
+    "nome": "Pão Massa Grossa 1kg",
+    "preco": 5.6,
+    "categoria": "Pães",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVUjhoVktYVlZTMHM",
+    "estabelecimentoComercial": "Panificadora Pão Quente"
+  },
+  {
+    "nome": "Leite 1L",
+    "preco": 4.6,
+    "categoria": "Laticínios",
+    "urlFoto": "https://drive.google.com/uc?export=download&id=0B08TMnCVNQpVUl84SkhyUGRwYXc",
+    "estabelecimentoComercial": "Comercial Guimarães"
+  }
+]

@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_item_todos"
+            android:checked="true"
+            android:icon="@drawable/food"
+            android:title="@string/todos" />
+
+        <item
+            android:id="@+id/nav_item_supermercados"
+            android:checked="true"
+            android:icon="@drawable/food_drink2"
+            android:title="@string/supermercados" />
+
+        <item
+            android:id="@+id/nav_item_eletroeletronicos"
+            android:checked="true"
+            android:icon="@drawable/fruit"
+            android:title="@string/eletroeletronicos" />
+
+        <item
+            android:id="@+id/nav_item_artesanais"
+            android:checked="true"
+            android:icon="@drawable/bread"
+            android:title="@string/artesanais" />
+
+        <item
+            android:id="@+id/nav_item_moveis"
+            android:icon="@drawable/meat"
+            android:title="@string/moveis" />
+
+        <item
+            android:id="@+id/nav_item_variedades"
+            android:icon="@drawable/milk"
+            android:title="@string/variedades" />
+
+        <item
+            android:id="@+id/nav_item_livros"
+            android:checked="true"
+            android:icon="@drawable/food"
+            android:title="@string/livros" />
+    </group>
+</menu>

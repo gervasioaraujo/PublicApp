@@ -1,0 +1,58 @@
+<resources>
+    <string name="app_name">Public</string>
+
+    <!-- Tabs -->
+    <string name="tab1">Produtos</string>
+    <string name="tab2">Anunciantes</string>
+
+    <string name="action_search">Pesquisar</string>
+    <string name="action_add">Adicionar</string>
+
+    <string name="nav_drawer_username">Gervásio</string>
+    <string name="nav_drawer_email">gervasfj@gmail.com</string>
+
+    <string name="error_conexao_indisponivel">Conexão indisponível. Verifique seu Wi-Fi ou 3G.</string>
+
+    <!-- Navgation Drawer-->
+    <!-- Segmentos Comerciais -->
+    <string name="todos">Todos</string>
+    <string name="supermercados">Supermercados</string>
+    <string name="eletroeletronicos">Eletroeletrônicos</string>
+    <string name="artesanais">Atersanais</string>
+    <string name="moveis">Móveis</string>
+    <string name="variedades">Variedades</string>
+    <string name="livros">Livros</string>
+
+
+    <!-- Anunciante -->
+    <string name="empresa">Empresa:</string>
+    <string name="endereco">Endereço:</string>
+
+    <!-- M -->
+    <string name="msg_error_campo_obrigatorio">Campo obrigatório.</string>
+
+    <!-- N -->
+    <string name="novo_anuncio">Novo Anúncio</string>
+    <string name="nome">Nome do Produto:</string>
+
+    <!-- P -->
+    <string name="preco">Preço:</string>
+
+    <!-- S -->
+    <string name="action_save">Salvar</string>
+
+    <!-- T -->
+    <string name="transition_key">img_transition_key</string>
+    <string name="tipo">Tipo</string>
+
+    <!-- U -->
+    <string name="url_video">URL Vídeo</string>
+
+    <!-- V -->
+    <!-- V -->
+    <string name="video">Vídeo</string>
+    <string name="vazio" />
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Listagem de Produtos</string>
+</resources>
